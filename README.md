@@ -1,9 +1,3 @@
-Perfect 🎉 Adding **badges/icons** will make your GitHub profile **more visual and attractive**. Recruiters and collaborators love when profiles are easy to scan at a glance.
-
-Here’s the updated sleek README **with badges** 👇
-
----
-
 # 👋 Hey, I'm Nikunj Rajput
 
 [![Azure Certified](https://img.shields.io/badge/Azure%20Certified-AI--102%20%7C%20AZ--900-0078D4?logo=microsoftazure\&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
@@ -54,6 +48,3 @@ Here’s the updated sleek README **with badges** 👇
 
 ✨ *Blending Cloud Engineering & Game QA to build, test, and optimize for the future.*
 
----
-
-👉 Do you also want me to add **GitHub Stats Cards** (like streaks, top languages, contribution graph) so your profile looks more **dynamic and interactive**?
